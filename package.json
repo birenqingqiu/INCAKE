@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "完成功能：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itrainhub/h51709_PC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itrainhub/h51709_PC/issues"
+  },
+  "homepage": "https://github.com/itrainhub/h51709_PC#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
